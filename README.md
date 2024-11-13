@@ -1,4 +1,4 @@
-# CREATE MC SERVER ON GITHUB!!!
+# java -Xmx16G -Xms4G -jar paper.jar --nogui!!!
 ## Now no need of pufferpanel or pterodactyl panel to create a Minecraft server in GitHub!!!!!
 
 ## To create a minecraft server start with the steps listed below 🎉🎉!!
